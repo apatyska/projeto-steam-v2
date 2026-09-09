@@ -10,7 +10,6 @@
 
 A Fun Corp., empresa até então focada em jogos de tabuleiro e action figures, planeja entrar no mercado de jogos digitais. Este projeto analisa uma base com mais de 70 mil jogos publicados na Steam (coletada em maio de 2023) para responder três perguntas de negócio que embasam essa decisão.
 
-A Fase 1 usa apenas recursos nativos de Python (listas, dicionários, arquivos, exceções, orientação a objetos), sem `pandas`, `numpy` ou `matplotlib`, conforme escopo da disciplina.
 
 ## Perguntas respondidas
 
@@ -20,7 +19,6 @@ A Fase 1 usa apenas recursos nativos de Python (listas, dicionários, arquivos, 
 | 2 | Qual o ano com o maior número de novos jogos? | `AnalisadorSteam.analisar_ano_mais_frequente()` |
 | 3 | *(autoral)* Qual gênero representa a melhor oportunidade de entrada, considerando aprovação do público e volume de avaliações? | `AnalisadorSteam.analisar_melhor_genero_entrada()` |
 
-O relatório completo, com discussão dos resultados e visualizações, está em `Fase1_ProgramacaoParaDados_PatriciaTyska.pdf`.
 
 ## Base de dados
 
