@@ -1,0 +1,15 @@
+# Ambientes virtuais e Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Arquivos de dados e documentos específicos do projeto
+steam_games.csv
+*.pdf
+
+# Arquivos de sistema operacional e IDE
+.DS_Store
+Thumbs.db
+.vscode/
